@@ -1,5 +1,9 @@
 #include <stdio.h>
+<<<<<<< HEAD
 /* Main */
+=======
+
+>>>>>>> ad2c2fea56bf5b67fa4fe67b63b361c97f9a238d
 int main(void) {
     int sum = 0, num;
     int getNbr();
@@ -17,4 +21,8 @@ int getNbr() {
     printf("Enter number (enter zero to terminate): ");
     scanf("%d", &nbr);
     return nbr;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ad2c2fea56bf5b67fa4fe67b63b361c97f9a238d
